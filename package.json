@@ -10,6 +10,9 @@
         "type": "git",
          "url": "http://github.com/ajaxorg/ace.git"
     },
+	"dependencies": {
+		"htmllint": "neocoder/htmllint"
+	},
     "devDependencies": {
         "asyncjs": "0.0.x",
         "jsdom": "9.3.0",
